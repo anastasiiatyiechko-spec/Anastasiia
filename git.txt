@@ -1,0 +1,6 @@
+
+git add git.txt
+git commit -m "Додав git.txt у newfeatures"
+
+git branch
+
